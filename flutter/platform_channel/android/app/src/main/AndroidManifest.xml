@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="marcello.dev.platform_channel">
    <application
-        android:label="platform_channel"
+        android:label="Platform Channel"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
